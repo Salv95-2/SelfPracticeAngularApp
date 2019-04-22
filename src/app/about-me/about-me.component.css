@@ -1,0 +1,29 @@
+.outerDiv{
+    
+    block-size: 40em;
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: blue;
+    display:flex;
+    flex-direction: row;
+
+}
+
+.leftInnerDiv{
+    background-color:lightblue;
+    padding-left: 20em;
+
+    
+ 
+}
+.rightInnerDiv{
+    background-color: pink;
+    padding-left: 18em;
+    
+}
+
+#aboutProfileImage{
+    width: 60%;
+    height: auto;
+}
+
